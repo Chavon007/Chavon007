@@ -8,10 +8,10 @@ Currently: Software Engineer @ [Frootify Tech](https://frootify.tech) — Remote
 
 ### Stack
 
-**Frontend** — React · Next.js · React Native · TypeScript · Tailwind CSS
-**Backend** — Node.js · Express · PHP (Laravel) · REST APIs
-**Database** — PostgreSQL · MySQL · MongoDB · Redis
-**Tools** — Git/GitHub · Docker · AWS (EC2, S3) · Vercel · CI/CD
+- **Frontend** — React · Next.js · React Native · TypeScript · Tailwind CSS
+- **Backend** — Node.js · Express · PHP (Laravel) · REST APIs
+- **Database** — PostgreSQL · MySQL · MongoDB · Redis
+- **Tools** — Git/GitHub · Docker · AWS (EC2, S3) · Vercel · CI/CD
 
 ---
 
@@ -19,15 +19,15 @@ Currently: Software Engineer @ [Frootify Tech](https://frootify.tech) — Remote
 
 **Pingcast** — AI-personalized weather concierge
 Delivers daily weather insights via automated scheduling and AI-generated recommendations. React, Laravel, PostgreSQL, Open-Meteo + Groq AI APIs.
-[Live](http://pingcast.site/) · [Repo](https://github.com/Chavon007/pingcast.git)
+[Live](#) · [Repo](#)
 
 **Axis** — Full-stack mobile booking app
 Cross-platform hotel reservation app for the Lagos market with real-time room browsing and booking. React Native, Express, Supabase, deployed on AWS EC2.
-[Download APK](https://github.com/Chavon007/axis/releases/download/v1.0.0/axis-v1.0.0.apk) · [Repo](https://github.com/Chavon007/axis.git)
+[Download APK](#) · [Repo](#)
 
 **Identity Profile API** — Backend REST service
 Enriches user profiles by aggregating three external demographic APIs — CRUD, pagination, idempotent requests, advanced MongoDB search. Node.js, Express.
-[Live API](https://identity-profile-api-service.vercel.app/) · [Repo](https://github.com/Chavon007/identity-profile-api-service.git)
+[Live API](#) · [Repo](#)
 
 ---
 
@@ -35,4 +35,4 @@ Enriches user profiles by aggregating three external demographic APIs — CRUD, 
 
 📧 [salvationazuh@gmail.com](mailto:salvationazuh@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/salvation-azuh/)
-🌐 [Portfolio](https://salvation-azuh.vercel.app/)
+🌐 [Portfolio](#)
