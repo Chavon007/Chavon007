@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Salvation 👋
 
-<!--
-**Chavon007/Chavon007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer building web and mobile products for fintech, hospitality, e-commerce, and ed-tech. I care about clean interfaces, solid backend architecture, and shipping things that actually reduce work for real users.
 
-Here are some ideas to get you started:
+Currently: Software Engineer @ [Frootify Tech](https://frootify.tech) — Remote
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stack
+
+**Frontend** — React · Next.js · React Native · TypeScript · Tailwind CSS
+**Backend** — Node.js · Express · PHP (Laravel) · REST APIs
+**Database** — PostgreSQL · MySQL · MongoDB · Redis
+**Tools** — Git/GitHub · Docker · AWS (EC2, S3) · Vercel · CI/CD
+
+---
+
+### A few things I've built
+
+**Pingcast** — AI-personalized weather concierge
+Delivers daily weather insights via automated scheduling and AI-generated recommendations. React, Laravel, PostgreSQL, Open-Meteo + Groq AI APIs.
+[Live](http://pingcast.site/) · [Repo](https://github.com/Chavon007/pingcast.git)
+
+**Axis** — Full-stack mobile booking app
+Cross-platform hotel reservation app for the Lagos market with real-time room browsing and booking. React Native, Express, Supabase, deployed on AWS EC2.
+[Download APK](https://github.com/Chavon007/axis/releases/download/v1.0.0/axis-v1.0.0.apk) · [Repo](https://github.com/Chavon007/axis.git)
+
+**Identity Profile API** — Backend REST service
+Enriches user profiles by aggregating three external demographic APIs — CRUD, pagination, idempotent requests, advanced MongoDB search. Node.js, Express.
+[Live API](https://identity-profile-api-service.vercel.app/) · [Repo](https://github.com/Chavon007/identity-profile-api-service.git)
+
+---
+
+### Reach me
+
+📧 [salvationazuh@gmail.com](mailto:salvationazuh@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/salvation-azuh/)
+🌐 [Portfolio](https://salvation-azuh.vercel.app/)
